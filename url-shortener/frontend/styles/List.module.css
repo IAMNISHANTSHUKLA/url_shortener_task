@@ -1,0 +1,30 @@
+.listContainer {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  a {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
